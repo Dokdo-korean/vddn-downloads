@@ -1,0 +1,13 @@
+HORIZON REVERB — Freeware License
+Copyright (c) 2026 VDDN RCRDS. All rights reserved.
+
+1. You may install and use this software free of charge, for personal and commercial
+   music production (including released and monetised music made with it).
+2. You may not sell, rent, re-host, re-distribute, bundle, modify, decompile or
+   reverse-engineer the software or its installers. To share it, link to the official
+   download page instead.
+3. The software is provided "AS IS", without warranty of any kind. In no event shall
+   VDDN RCRDS be liable for any claim, damages or other liability arising from its use.
+4. Third-party components: built with JUCE (juce.com); fonts Montserrat and
+   JetBrains Mono under the SIL Open Font License 1.1; Earth map data from Natural Earth
+   (public domain).
