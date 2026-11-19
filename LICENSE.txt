@@ -3,8 +3,9 @@ Copyright (c) 2026 VDDN RCRDS. All rights reserved.
 
 1. Licence. The VST3 / AU plugin needs a licence to run without interruption: a licence
    key bought from VDDN RCRDS, or a promotional code used during its promotion period.
-   A licence covers one person on their own computers. Once activated, a licence (including
-   one activated with a promotional code) does not expire. Without a licence the plugin
+   An activation is tied to the computer and the installation it was made on and does not
+   expire there (including one made with a promotional code); after uninstalling and
+   reinstalling the plugin it must be activated again. Without a licence the plugin
    works fully but pauses the reverb briefly at intervals. Version 0.1.0 and the JSFX
    version were released as freeware and stay free to use.
    You may use the software for personal and commercial music production (including
