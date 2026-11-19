@@ -1,11 +1,17 @@
-HORIZON REVERB — Freeware License
+HORIZON REVERB — End User License
 Copyright (c) 2026 VDDN RCRDS. All rights reserved.
 
-1. You may install and use this software free of charge, for personal and commercial
-   music production (including released and monetised music made with it).
+1. Licence. The VST3 / AU plugin needs a licence to run without interruption: a licence
+   key bought from VDDN RCRDS, or a promotional code used during its promotion period.
+   A licence covers one person on their own computers. Once activated, a licence (including
+   one activated with a promotional code) does not expire. Without a licence the plugin
+   works fully but pauses the reverb briefly at intervals. Version 0.1.0 and the JSFX
+   version were released as freeware and stay free to use.
+   You may use the software for personal and commercial music production (including
+   released and monetised music made with it).
 2. You may not sell, rent, re-host, re-distribute, bundle, modify, decompile or
-   reverse-engineer the software or its installers. To share it, link to the official
-   download page instead.
+   reverse-engineer the software or its installers, or share licence keys. To share the
+   software, link to the official download page instead.
 3. The software is provided "AS IS", without warranty of any kind. In no event shall
    VDDN RCRDS be liable for any claim, damages or other liability arising from its use.
 4. Third-party components: built with JUCE (juce.com); fonts Montserrat and
