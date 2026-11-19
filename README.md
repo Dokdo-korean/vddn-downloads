@@ -3,7 +3,7 @@
 ## HORIZON REVERB 0.1.1
 Ten reverbs. Ten worlds. VST3 · AU for macOS and Windows.
 
-**Black Friday:** free until Nov 30 — click **ACTIVATE** in the plugin and enter `VDDN-FAMILY-2026`.
+**Black Friday:** free until Nov 30. Follow [@voidianrcrds](https://instagram.com/voidianrcrds) on Instagram and comment on our post: the activation code comes to your DM.
 
 | | |
 |---|---|
